@@ -2,4 +2,4 @@
 
 🎓 Bacharel em Arquitetura  
 💻 Estudando programação (C, C++, C#, Python)  
-🏗️ Interesse em tecnologia, simulações e computação gráfica  
+🏗️ Interesse em tecnologia, simulações e computação gráfica.  
